@@ -1,0 +1,57 @@
+.navbar-brand{
+    font-family: 'Protest riot';
+    color: rgb(255, 3, 3);
+}
+.navbar{
+    background-color:  rgb(47, 85, 151);
+    
+}
+.nav-link{
+    color: aliceblue;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.heading{
+    font-family: 'Protest Riot';
+}
+.content{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.divheading{
+    font-family: 'Times New Roman', Times, serif
+    ;
+    font-weight: bolder;
+}
+.box{
+
+    margin-top: 50px;
+    background-color: rgb(44, 108, 164);
+    padding-top: 37px;
+    padding-left: 27px;
+    padding-bottom: 30px;
+    padding-right: 27px;
+    border-radius: 30px;
+    box-shadow: 30px;
+    color: rgb(255, 255, 255);
+}
+#crosol{
+    margin-top: 20px;
+}
+#login-btn{
+    background-color: rgb(233, 107, 107);
+}
+#bottext{
+    height: auto;
+}
+.bot{
+    font-size: 20px;
+}
+.navbar{
+    color: blue;
+}
+.end{
+    background-color: black;
+    color: white;
+    font-size: 10px;
+}
