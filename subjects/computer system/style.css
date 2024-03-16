@@ -1,0 +1,15 @@
+.iframe{
+    border-radius: 20px;
+    background-color: aliceblue;
+   padding-left: 10px;
+   padding-right: 10px;
+    padding-top: 10PX;
+    padding-bottom: 10PX;
+    ;
+}
+.colm{
+    height: 400px;
+}
+.title{
+    font-family: 'Times New Roman', Times, serif;
+}
